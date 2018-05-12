@@ -1,0 +1,28 @@
+_repo: Verg-nglichkeit_29514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2009-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29514'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Change'
+- !lcc 'BF'
+title: Vergänglichkeit
+url: http://www.gutenberg.org/ebooks/29514
